@@ -20,7 +20,6 @@
   <img align="center" alt="Matheus-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Matheus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Matheus-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Matheus-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
