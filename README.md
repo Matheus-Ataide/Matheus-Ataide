@@ -1,4 +1,4 @@
-### Eae! Me chamo Matheus Ataide👋
+### Eae! Me chamo Matheus Ataide!👋
 
 - 📗 Concluindo o Ensino Médio Técnico Integrado | Instituto Federal de Alagoas | Informática
 - ✝ Católico Apostólico Romano
