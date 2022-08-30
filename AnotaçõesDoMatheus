@@ -1,2 +1,0 @@
-### iniciar servidor do jooby GQSO
-mvn clean jooby: run
