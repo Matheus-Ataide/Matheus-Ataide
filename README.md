@@ -1,6 +1,6 @@
 ### Eae! Me chamo Matheus Ataide!👋
 
-- 📗 Concluindo o Ensino Médio Técnico Integrado | Instituto Federal de Alagoas | Informática
+- 📗 Ensino Médio Técnico Integrado | Instituto Federal de Alagoas | Curso de Informática
 - ✝ Católico Apostólico Romano
 - 💻 Programo em JavaScript, Python, C++, Dart, Java
 
