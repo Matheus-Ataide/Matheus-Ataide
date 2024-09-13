@@ -1,8 +1,10 @@
 ### Eae! Me chamo Matheus Ataide!👋
 
-- 📗 Ensino Médio Técnico Integrado | Instituto Federal de Alagoas | Tecnologia da Informação
+- 📗 Ensino Médio Técnico Integrado | Instituto Federal de Alagoas - Brasil | Tecnologia da Informação
+- 💻 Programo em Python, SQL, JavaScript, Dart, C++ e Java
+- 🔃 Migrando para Área de Engenharia de Dados
 - ✝ Católico Apostólico Romano
-- 💻 Programo em JavaScript, Python, C++, Dart, Java
+- 📍 Brasil/Portugal
 
 
 <div align="center">
